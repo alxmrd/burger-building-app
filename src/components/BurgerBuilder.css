@@ -1,0 +1,20 @@
+.burger {
+  text-align: center;
+  position: sticky;
+  top: 50%;
+}
+
+.burger .patty{
+  position: absolute;
+  z-index:  0;
+}
+
+.burger .egg{
+  position: absolute;
+  z-index:  1;
+}
+
+.bacon{
+  position: absolute;
+  z-index:  2;
+}

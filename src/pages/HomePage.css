@@ -1,0 +1,3 @@
+.cardComponent div:not(:first-child)  {
+  margin-top: 20px;
+}
